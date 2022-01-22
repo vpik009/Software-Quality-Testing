@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
  This repository demonstrates a variety of different software testing techniques ranging from white box to black box testing. This md file will further elaborate on the specific tests that have been conducted for each functionality. Furthermore, to view the coverage tests, you can proceed to view the html coverage documents in the htmlcov folder.
 
 ### delete_events functionality:
