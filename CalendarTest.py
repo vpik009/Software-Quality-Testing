@@ -131,7 +131,7 @@ class CalendarTest(unittest.TestCase):
             {'kind': 'calendar#event', 'etag': '"3203047949026000"', 'id': '60lonipdgua0t4m7uhh3v112q2',
              'status': 'confirmed',
              'htmlLink': 'https://www.google.com/calendar/event?eid=NjBsb25pcGRndWEwdDRtN3VoaDN2MTEycTIgdnBpazAwMDFAc3R1ZGVudC5tb25hc2guZWR1',
-             'created': '2020-10-01T03:46:14.000Z', 'updated': '2020-10-01T03:46:14.513Z', 'summary': 'test for 2107',
+             'created': '2020-10-01T03:46:14.000Z', 'updated': '2020-10-01T03:46:14.513Z', 'summary': 'test',
              'creator': {'email': 'vpik0001@student.monash.edu', 'self': True},
              'organizer': {'email': 'vpik0001@student.monash.edu', 'self': True}, 'start': {'date': '2020-10-20'},
              'end': {'date': '2020-10-21'}, 'transparency': 'transparent',
